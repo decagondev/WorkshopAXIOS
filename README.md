@@ -1,2 +1,2 @@
 # Example
-Some Example Web APP
+This is a simple Web APP. Using HTML, CSS and JavaScript
