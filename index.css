@@ -1,0 +1,37 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+.brand {
+    color: white;
+    background-color: blueviolet;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 4px red;
+}
+
+.headernav a {
+    text-decoration: none;
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    margin: 5px;
+    height: 18px;
+    border: solid 3px green;
+    border-radius: 10px;
+}
+
+.headernav a:hover {
+    background-color: azure;
+    color:#333;
+}
+
+.headernav ul li {
+    margin: 30px;
+    
+
+}
