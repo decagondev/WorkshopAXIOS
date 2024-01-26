@@ -1,3 +1,2 @@
-# Example
-This is a simple Web APP. Using HTML, CSS and JavaScript
-my updated readme
+# Workshop - AXIOS
+This repository is made during a workshop to teach HTML, CSS, JS, AXIOS to Java Developers
