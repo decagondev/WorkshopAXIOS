@@ -27,7 +27,7 @@ npm install
 node server.js
 ```
 
-**Atart working on the front end html, css, js files!**
+**Start working on the front end html, css, js files!**
 
 
 
